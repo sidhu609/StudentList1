@@ -14,7 +14,7 @@ public class Student {
        private String name;
 
     /**
-     * Get the value of name
+     * Get the value of name Month June
      *
      * @return the value of name
      */
